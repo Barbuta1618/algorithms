@@ -1,1 +1,1 @@
-# Sorting algorithms for beginers
+We implement 3 algorithms
